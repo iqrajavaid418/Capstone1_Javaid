@@ -7,7 +7,7 @@ import java.util.List;
 public class FileManager {
     public static List<Transaction> getTransactions() {
         List<Transaction> transactions = new ArrayList<>();
-
+//bufferreader
         try {
             BufferedReader reader = new BufferedReader(new FileReader("src/main/resources/Transaction.csv"));
             String line;
