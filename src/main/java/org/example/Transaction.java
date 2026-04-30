@@ -72,15 +72,6 @@ double amount;
                 date, description, vendor, amount);
     }
 
-//    @Override
-//    public String toString() {
-//        return "Transaction{" +
-//                "date='" + date + '\'' +
-//                ", time='" + time + '\'' +
-//                ", description='" + description + '\'' +
-//                ", vendor='" + vendor + '\'' +
-//                ", amount=" + amount +
-//                '}';
     }
 
 
